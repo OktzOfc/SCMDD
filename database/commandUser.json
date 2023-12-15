@@ -1,0 +1,40 @@
+[
+  {
+    "jid": "6285892928715@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#left",
+        "count": 1
+      },
+      {
+        "nama": "#setwelcome",
+        "count": 1
+      },
+      {
+        "nama": "#autoaigrup",
+        "count": 2
+      },
+      {
+        "nama": "#delsetwelcome",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "62895413420158@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#mute",
+        "count": 3
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      }
+    ]
+  }
+]
